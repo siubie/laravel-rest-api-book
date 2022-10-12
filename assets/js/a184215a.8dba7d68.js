@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaravel_rest_api=self.webpackChunklaravel_rest_api||[]).push([[260],{4313:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/laravel-rest-api-book/blog/tags/hola","allTagsPath":"/laravel-rest-api-book/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaravel_rest_api=self.webpackChunklaravel_rest_api||[]).push([[6876],{9966:a=>{a.exports=JSON.parse('{"permalink":"/laravel-rest-api-book/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
