@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Laravel Rest Api",
   tagline: "Open Source Laravel Book By DosenNgoding",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://siubie.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -17,7 +17,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "siubie", // Usually your GitHub org/user name.
-  projectName: "laravel-rest-api", // Usually your repo name.
+  projectName: "laravel-rest-api-book", // Usually your repo name.
+  trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
