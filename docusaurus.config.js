@@ -9,7 +9,7 @@ const config = {
   title: "Laravel Rest Api",
   tagline: "Open Source Laravel Book By DosenNgoding",
   url: "https://siubie.github.io",
-  baseUrl: "/",
+  baseUrl: "/laravel-rest-api-book/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
