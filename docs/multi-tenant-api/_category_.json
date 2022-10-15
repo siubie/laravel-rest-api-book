@@ -1,5 +1,5 @@
 {
-  "label": "Multi Tenant REST API",
+  "label": "Multi Tenancy in REST API",
   "position": 10,
   "link": {
     "type": "generated-index",
