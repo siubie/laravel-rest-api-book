@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklaravel_rest_api=self.webpackChunklaravel_rest_api||[]).push([[9002],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
